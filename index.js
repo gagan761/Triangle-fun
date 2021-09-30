@@ -3,16 +3,16 @@ const submitBtn = document.querySelector("#submit-answers-btn");
 const outputEl = document.querySelector(".output");
 
 const correctAnswers = [
-  "90°",
+  "60°",
   "right angled",
-  "one right angle",
+  "greater or equal than third side",
   "12, 16, 20",
   "Equilateral triangle",
-  "100°",
+  "180°",
   "30°",
   "a + b + c",
   "no",
-  "45°",
+  "3",
 ];
 
 function calculateScore() {
