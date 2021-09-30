@@ -5,7 +5,7 @@ const outputEl = document.querySelector(".output");
 const correctAnswers = [
   "60°",
   "right angled",
-  "greater or equal than third side",
+  "greater than third side",
   "12, 16, 20",
   "Equilateral triangle",
   "180°",
